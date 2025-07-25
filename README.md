@@ -1,16 +1,17 @@
-# Getting Started with GitHub Copilot
+### Hi there 👋 I'm Saurabh Mainkar
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey @saurabhmainkar!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/saurabhmainkar/github.com-saurabhmainkar/issues/1)
+🚀 CS Freshman at Texas Tech University  
+👨‍💻 Passionate about Web Dev, Problem Solving, and AI  
+📚 Currently learning Data Structures, Python, and JavaScript  
+🔭 Working on small personal projects  
+📫 Let's connect:[ [LinkedIn]](https://www.linkedin.com/in/saurabh-mainkar-b393a430b/) • [Email](mailto:saurabh.a.mainkar@gmail.com)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+🛠️ Tech Stack:
+- Languages: Python, C++, JavaScript
+- Tools: Git, VS Code, GitHub, Linux
+- Currently Learning: React, Firebase, and DSA
+
+💡 Fun Fact: I love building things that solve real-world problems!
 
