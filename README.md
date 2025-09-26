@@ -9,8 +9,8 @@
 ---
 
 🛠️ Tech Stack:
-- Languages: Python, C++, JavaScript
-- Tools: Git, VS Code, GitHub, Linux
+- Languages: Python, C++, HTML
+- Tools: Git, VS Code, GitHub, Linux, cursor
 - Currently Learning: React, Firebase, and DSA
 
 💡 Fun Fact: I love building things that solve real-world problems!
